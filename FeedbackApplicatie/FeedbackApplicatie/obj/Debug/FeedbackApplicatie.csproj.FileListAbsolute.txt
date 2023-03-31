@@ -1,0 +1,13 @@
+C:\Codeershit\FeedbackApplicatie\bin\Debug\FeedbackApplicatie.exe.config
+C:\Codeershit\FeedbackApplicatie\bin\Debug\FeedbackApplicatie.exe
+C:\Codeershit\FeedbackApplicatie\bin\Debug\FeedbackApplicatie.pdb
+C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.AssemblyReference.cache
+C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.SuggestedBindingRedirects.cache
+C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Form1.resources
+C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Properties.Resources.resources
+C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.GenerateResource.cache
+C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.CoreCompileInputs.cache
+C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.exe
+C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.pdb
+C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Feedbackpage.resources
+C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Tijdsregistatiepage.resources
