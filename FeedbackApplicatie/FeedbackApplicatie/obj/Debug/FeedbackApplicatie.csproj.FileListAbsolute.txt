@@ -11,3 +11,16 @@ C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.exe
 C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.pdb
 C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Feedbackpage.resources
 C:\Codeershit\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Tijdsregistatiepage.resources
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\bin\Debug\FeedbackApplicatie.exe.config
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\bin\Debug\FeedbackApplicatie.exe
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\bin\Debug\FeedbackApplicatie.pdb
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.AssemblyReference.cache
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Feedbackpage.resources
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Form1.resources
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Properties.Resources.resources
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Tijdsregistatiepage.resources
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.GenerateResource.cache
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.CoreCompileInputs.cache
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.exe
+C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.pdb

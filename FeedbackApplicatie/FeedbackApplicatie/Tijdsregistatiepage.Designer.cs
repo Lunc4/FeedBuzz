@@ -55,6 +55,7 @@
             this.Terug.TabIndex = 2;
             this.Terug.Text = "Terug";
             this.Terug.UseVisualStyleBackColor = true;
+            this.Terug.Click += new System.EventHandler(this.Terug_Click);
             // 
             // Tijdsregistatiepage
             // 

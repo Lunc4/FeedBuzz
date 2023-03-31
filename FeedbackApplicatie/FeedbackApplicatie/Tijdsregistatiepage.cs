@@ -21,5 +21,12 @@ namespace FeedbackApplicatie
         {
 
         }
+
+        private void Terug_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
+        }
     }
 }
