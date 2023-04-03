@@ -5,6 +5,11 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackApplicatie", "FeedbackApplicatie.csproj", "{E4E160AD-56D2-4B30-B753-2A248D180EF7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8FEEFD2D-FD08-4725-A983-CF6AA48D2B1C}"
+	ProjectSection(SolutionItems) = preProject
+		Login.cs = Login.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

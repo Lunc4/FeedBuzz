@@ -28,5 +28,10 @@ namespace FeedbackApplicatie
             form1.Show();
             this.Hide();
         }
+
+        private void Tijdsregistatiepage_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

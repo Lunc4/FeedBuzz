@@ -24,3 +24,17 @@ C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie
 C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.CoreCompileInputs.cache
 C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.exe
 C:\Users\lenny\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.pdb
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\bin\Debug\FeedbackApplicatie.exe.config
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\bin\Debug\FeedbackApplicatie.exe
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\bin\Debug\FeedbackApplicatie.pdb
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.AssemblyReference.cache
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.SuggestedBindingRedirects.cache
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Feedbackpage.resources
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Form1.resources
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Properties.Resources.resources
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Tijdsregistatiepage.resources
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.GenerateResource.cache
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.csproj.CoreCompileInputs.cache
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.exe
+C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.pdb
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Loginpage.resources

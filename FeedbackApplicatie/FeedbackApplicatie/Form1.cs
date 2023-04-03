@@ -35,5 +35,12 @@ namespace FeedbackApplicatie
             nextForm.Show();              
             this.Hide();                 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Loginpage nextForm = new Loginpage();
+            nextForm.Show();
+            this.Hide();
+        }
     }
 }
