@@ -39,14 +39,14 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(524, 161);
+            this.textBox1.Location = new System.Drawing.Point(161, 192);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(172, 22);
             this.textBox1.TabIndex = 1;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(524, 209);
+            this.textBox2.Location = new System.Drawing.Point(161, 240);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(172, 22);
             this.textBox2.TabIndex = 2;
@@ -54,7 +54,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(411, 164);
+            this.label1.Location = new System.Drawing.Point(47, 195);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(107, 16);
             this.label1.TabIndex = 3;
@@ -63,7 +63,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(420, 212);
+            this.label2.Location = new System.Drawing.Point(47, 243);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(82, 16);
             this.label2.TabIndex = 4;
@@ -72,15 +72,15 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(281, 390);
+            this.label3.Location = new System.Drawing.Point(44, 401);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(333, 16);
+            this.label3.Size = new System.Drawing.Size(171, 32);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Heeft u nog geen account? Maak hier een account aan:";
+            this.label3.Text = "Heeft u nog geen account?\r\nMaak hier een account aan:";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(657, 390);
+            this.button1.Location = new System.Drawing.Point(221, 410);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(112, 23);
             this.button1.TabIndex = 6;
@@ -89,7 +89,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(524, 255);
+            this.button2.Location = new System.Drawing.Point(161, 286);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(172, 23);
             this.button2.TabIndex = 7;
@@ -101,7 +101,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.ClientSize = new System.Drawing.Size(404, 554);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);

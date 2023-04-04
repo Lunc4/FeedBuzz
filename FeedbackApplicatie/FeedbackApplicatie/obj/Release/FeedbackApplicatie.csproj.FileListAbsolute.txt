@@ -1,0 +1,15 @@
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\bin\Release\FeedbackApplicatie.exe.config
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\bin\Release\FeedbackApplicatie.exe
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\bin\Release\FeedbackApplicatie.pdb
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.csproj.AssemblyReference.cache
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.csproj.SuggestedBindingRedirects.cache
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.Feedbackpage.resources
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.Form1.resources
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.Registrationpage.resources
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.Loginpage.resources
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.Properties.Resources.resources
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.Tijdsregistatiepage.resources
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.csproj.GenerateResource.cache
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.csproj.CoreCompileInputs.cache
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.exe
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Release\FeedbackApplicatie.pdb

@@ -38,3 +38,4 @@ C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie
 C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.exe
 C:\Users\lvann\Source\Repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.pdb
 C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Loginpage.resources
+C:\Users\lvann\source\repos\Lunc4\FeedBuzz\FeedbackApplicatie\FeedbackApplicatie\obj\Debug\FeedbackApplicatie.Registrationpage.resources
